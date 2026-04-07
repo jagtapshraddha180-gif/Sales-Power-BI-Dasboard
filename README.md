@@ -17,4 +17,4 @@ This project presents an interactive sales dashboard built using Power BI to ana
 - DAX
 
 ## 📂 Files Included
-- Sales revenue performance.pbix
+- https://app.powerbi.com/reportEmbed?reportId=2e2fb966-0c52-414e-82fe-861d2349c6e6&autoAuth=true&ctid=27786721-bb1a-46c6-916a-da82f5c834a9
